@@ -3,7 +3,9 @@ Script and files associated with manuscript on Sharks' jaw shape evolution
 
 Script Jaws CommBiol 060423 contains all the necessary script and notes to produce the figures in the manuscript and supplementary figures/tables.
 
-pts folder contains the curve and landmark files for each surface file, this is necessary for the patch placement.
+pts and pts2 folder contains the curve and landmark files for each surface file, this is necessary for the patch placement.
+
+It is recommended to set a ply folder for the surface files in https://doi.org/10.6084/m9.figshare.c.3662366.v1
 
 files script folder contains all the necessary files (trees, csv, results, surface files, and ladnmark data).
 
